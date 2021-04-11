@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/settings"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="287dp"
+            android:layout_height="65dp"
+            android:text="@string/radiobutton"
+            android:translationX="20dp"
+            android:translationY="100dp" />
+    </FrameLayout>
+</LinearLayout>
